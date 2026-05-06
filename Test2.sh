@@ -1,0 +1,1 @@
+echo Create a folder with name: mkdir aws-learning60
