@@ -1,1 +1,1 @@
-echo Create a folder with name: mkdir aws-learning60
+echo Create a folder with name: mkdir aws-learning60-d18
