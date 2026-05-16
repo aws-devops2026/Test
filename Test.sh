@@ -4,3 +4,4 @@ echo test1-test
 echo good morning
 echo new doc
 echo linux basics is done
+echo "Orange army"
