@@ -5,3 +5,4 @@ echo good morning
 echo new doc
 echo linux basics is done
 echo "Orange army"
+echo hello
