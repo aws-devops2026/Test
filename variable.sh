@@ -12,4 +12,7 @@ echo "printing the value of b: $b"
 TODAYS_DATE=$(date +%F)
 echo "Todays date is $TODAYS_DATE"
 
+#to identify multiple session on servers
 
+echo "number of logged sessions: $(who |wc -l)"
+ 
