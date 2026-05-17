@@ -21,3 +21,11 @@ stat () {
 
 # calling a function
 stat
+sleep 1
+
+stat
+sleep 2
+
+stat
+sleep 3
+
