@@ -12,7 +12,7 @@
 
 # Declaring a function
 
-start () {
+stat () {
     echo "beginning of stat function . . . ."
     echo "Todays date is $(date +%F)"
     echo "Number of loggied in users is $(who |we-1)"
