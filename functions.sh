@@ -29,3 +29,4 @@ sleep 2
 stat
 sleep 3
 
+# how can i call a function from another script or file ?
