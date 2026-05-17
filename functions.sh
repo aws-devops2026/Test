@@ -11,13 +11,12 @@
 # f
 
 # Declaring a function
-
 stat () {
     echo "beginning of stat function . . . ."
     echo "Todays date is $(date +%F)"
     echo "Number of loggied in users is $(who |we-1)"
     echo "stat function completed"
-
+    echo -e "------------------ \n \n"
 }
 
 # calling a function
