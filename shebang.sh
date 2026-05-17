@@ -9,3 +9,4 @@ echo "End of the script"
 
 echo "Script Name: $0 Completed"
 
+echo -e "\t\t Hai \n welcome"
