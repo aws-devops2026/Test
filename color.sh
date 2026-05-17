@@ -8,4 +8,5 @@ echo -e "\e[34m this is blue color \e[0m"
 echo -e "\e[35m this is magenta color \e[0m"
 
 #print the background clour
-echo -e "\e[43;31m printing on Yellow \[0m"
+
+echo -e "\e[43;31m printing on Yellow \e[0m"
