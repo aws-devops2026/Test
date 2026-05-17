@@ -9,6 +9,6 @@ echo "printing the value of b: $b"
 
 #Dynamic variable
 
-TODAY_DATE=$(DATE +%F)
+TODAYS_DATE=$(date +%F)
 echo "TODAYDATE is $TODAYS-DATE"
 
