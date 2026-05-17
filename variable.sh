@@ -14,5 +14,5 @@ echo "Todays date is $TODAYS_DATE"
 
 #to identify multiple session on servers
 
-echo "number of logged sessions: $(who |wc -l)"
- 
+echo "number of logged sessions: \e[32m $(who |wc -l) \e[0"
+
