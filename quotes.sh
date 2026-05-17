@@ -5,5 +5,6 @@
 a=10
 echo "pritinig the values of a ${a}"
 echo 'printing the values of a $[a]'
-echo 'printing the exit code of previouse command $?'
+echo "printing the exit code of previouse command $?"
+
 
