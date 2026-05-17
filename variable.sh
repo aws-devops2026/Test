@@ -4,6 +4,7 @@
 
 a=10
 echo "printing the value of a: $a"
-echo "printing the value of a: $b"
+
+echo "printing the value of b: $b"
 
 #Dynamic variable
