@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # variable is very impartante 
-#!/bin/bash
 
 # Variables: 
 # This is a very important concept in any programming language or technology.
