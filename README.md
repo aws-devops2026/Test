@@ -1,4 +1,3 @@
-# Test
 # Bash-Basics
 
 To learn automate something, we should know the manual process.
